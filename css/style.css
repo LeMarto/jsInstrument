@@ -1,0 +1,59 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#controls
+{
+    height: auto;
+}
+#controls div
+{
+    width: 100%;
+    height: 200px;
+}
+#do.on {
+    background-color: blue;
+}
+
+#do.off {
+    background-color: lightblue;
+}
+#re.on {
+    background-color: red;
+}
+#re.off {
+    background-color: lightcoral;
+}
+#mi.on {
+    background-color: green;
+}
+#mi.off {
+    background-color: lightgreen;
+}
+#fa.on {
+    background-color: yellow;
+}
+#fa.off {
+    background-color: lightyellow;
+}
+#sol.on {
+    background-color: orange;
+}
+#sol.off {
+    background-color: lightsalmon;
+}
+#la.on {
+    background-color: grey;
+}
+#la.off {
+    background-color: lightgrey;
+}
+#si.on {
+    background-color: pink;
+}
+#si.off {
+    background-color: lightpink;
+}
